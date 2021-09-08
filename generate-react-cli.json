@@ -1,0 +1,22 @@
+{
+  "usesTypeScript": true,
+  "usesCssModule": true,
+  "cssPreprocessor": "css",
+  "testLibrary": "None",
+  "component": {
+    "default": {
+      "__disabled__customTemplates": {
+        "component": "templates/TemplateName.js",
+        "lazy":  "templates/TemplateName.lazy.js",
+        "story":  "templates/TemplateName.story.js",
+        "style": "templates/TemplateName.style.scss",
+        "test":  "templates/TemplateName.test.js"
+      },
+      "path": "src/components",
+      "withStyle": false,
+      "withTest": true,
+      "withStory": false,
+      "withLazy": false
+    }
+  }
+}
