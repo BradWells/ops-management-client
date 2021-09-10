@@ -10,7 +10,7 @@ const Header = () => (
     <TeamStats />
     <LoggedInUser />
      */}
-    Header Component
+    LJI Ops Management (Header Component)
   </div>
 );
 
